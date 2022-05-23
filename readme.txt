@@ -1,3 +1,4 @@
 
-New project
 Hi there!
+Hello, git!
+
